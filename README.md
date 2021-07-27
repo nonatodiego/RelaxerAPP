@@ -1,7 +1,7 @@
 <h1>Relaxer App</h1>
 
 <p align="center">
-<image src=""/></br>
+<image src="https://img.icons8.com/ios/452/relax.png" width="120px"/></br>
 <label></label>
 </p>
 
